@@ -1,0 +1,100 @@
+/*Colors and fonts*/
+
+
+body{
+	 background: rgb(230 ,230, 230); 
+	 color: rgb(50, 50, 50);
+	 font-family: Elvetica;
+	 font-size: 16px;}
+
+	 h1, h2, h3 {font-family: 'Roboto', sans-serif;
+	 }
+
+	 h1{
+	 	color: #50b3a7;
+	 	font-family: 'Oswald', sans-serif;
+	 	font-size: 32px;
+	 }
+
+	 h2{
+	 	color: #29a19c;
+	 	font-size: 34px;
+	 	font-weight: lighter;
+	 }
+
+	 a{
+	 	text-decoration: ;
+	 	color: #29a19c;
+	 	transition: 0,3s ease;
+	 }
+	 a: hover { color: yellow;
+
+	 }
+
+
+
+
+    /* custom deseign */
+
+ .card-white{
+    	background-color: white;
+    	padding: 40px;
+    	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0,1)
+    	margin:20px 10px 10px; 
+    	text-align: center;
+    }
+
+    .containers { width: 700px;
+    margin:40px auto; }
+
+   
+    .img-circle { border-radius: 40% }
+
+    .btn-blue {
+    	background-color: blue;
+    	color: white;
+    	padding: 15px 20px;}
+
+
+
+    	.list-inline{
+    		list-style: none;
+    		padding-left: 0px;
+
+    	}
+.list-inline li {
+	display: inline;
+	padding: 0px;
+}
+
+.list-inline i {
+	font-size: 500px:
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
